@@ -1,6 +1,6 @@
 # A simple Gitpod.io workspace
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Tiktodz/test-gitpod)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/momys1/gitpod)
 
 **Brought by** @ItsVixano
 
@@ -9,7 +9,7 @@
 ## For setup it
 
 1. fork this repo
-2. go to gitpod.io/#"the forked repo url", example: https://gitpod.io/#https://github.com/Tiktodz/test-gitpod
+2. go to gitpod.io/#"the forked repo url", example: https://gitpod.io/#https://github.com/momys1/gitpod
 3. enjoy your monthly 50hrs
 
 ## Some Info
